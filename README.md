@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://augusto10vellozo-coder.github.io/site-servicos/"><img src="https://img.shields.io/badge/Servi%C3%A7os-sites%20e%20sistemas%20web-d9451c?style=flat-square" alt="Site de serviços"></a>
   <a href="https://taskbio.com.br"><img src="https://img.shields.io/badge/App%20no%20ar-taskbio.com.br-123d2c?style=flat-square" alt="App no ar"></a>
   <a href="https://www.linkedin.com/in/cezarvellozo/"><img src="https://img.shields.io/badge/LinkedIn-cezarvellozo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:augusto10vellozo@gmail.com"><img src="https://img.shields.io/badge/Email-augusto10vellozo@gmail.com-BB4433?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -15,6 +16,9 @@
 
 Construo aplicações web reais, não exercícios de curso. Venho de 7 anos em gestão de processos e
 análise — o que me deu disciplina de entrega que hoje aplico em código.
+
+**Faço sites e sistemas web sob medida para pequenos negócios.**
+Orçamento e escopo em [augusto10vellozo-coder.github.io/site-servicos](https://augusto10vellozo-coder.github.io/site-servicos/).
 
 ## Projetos
 
