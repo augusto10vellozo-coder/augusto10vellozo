@@ -1,19 +1,67 @@
-### Olá, eu sou Cezar Augusto
+<h1 align="center">Cezar Augusto Vellozo</h1>
 
-Estou dando meus primeiros passos na área de desenvolvimento **Full Stack**, construindo minha base com foco em tecnologias web modernas. Meu objetivo atual é entender a criação de páginas responsivas no front-end e a lógica de servidores no back-end.
+<p align="center">
+  <b>Desenvolvedor Frontend Júnior</b><br>
+  HTML · CSS · JavaScript · TypeScript · React
+</p>
 
-### O que estou estudando
-- **Front-end:** HTML5, CSS3 e JavaScript (ES6+)
-- **Back-end:** Node.js
-- **Controle de versão:** Git e GitHub
+<p align="center">
+  <a href="https://taskbio.com.br"><img src="https://img.shields.io/badge/App%20no%20ar-taskbio.com.br-123d2c?style=flat-square" alt="App no ar"></a>
+  <a href="https://www.linkedin.com/in/cezarvellozo/"><img src="https://img.shields.io/badge/LinkedIn-cezarvellozo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:augusto10vellozo@gmail.com"><img src="https://img.shields.io/badge/Email-augusto10vellozo@gmail.com-BB4433?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-### Em breve
-- Praticar projetos integrando o front-end com o back-end em Node.js
-- Aprender sobre bancos de dados relacionais e não relacionais
+---
 
-### Como falar comigo
+Construo aplicações web reais, não exercícios de curso. Venho de 7 anos em gestão de processos e
+análise — o que me deu disciplina de entrega que hoje aplico em código.
+
+## Projetos
+
+### [TaskBio](https://taskbio.com.br) — plataforma de rotina e saúde
+Agenda, treino, alimentação, hábitos e estudos no mesmo dia, com um só progresso.
+**React 19 · TypeScript · TanStack Start · Supabase · Tailwind CSS v4**
+
+- 260+ arquivos TypeScript e **311 testes automatizados** em 39 suítes
+- Row Level Security em 26 tabelas; regras de pontuação executadas no servidor por funções Postgres
+- Tema claro/escuro por tokens de CSS, aplicado antes do primeiro paint
+- PWA instalável com notificações push agendadas via service worker
+
+### [Painel Financeiro](https://augusto10vellozo-coder.github.io/painel-financeiro/) — dashboard consolidado
+Protótipo de alta fidelidade em **HTML, CSS e JavaScript puros**, sem framework e sem build.
+Três escopos na mesma tela (Pessoal / Empresa / Consolidado), cinco KPIs com variação percentual,
+gráfico receita × custos em SVG e distribuição por categoria.
+
+### [Banners HTML5 e e-mail marketing](https://github.com/augusto10vellozo-coder/portfolio-rich-media)
+Peças de campanha em arquivo único, **abaixo de 5 KB**, com animação restrita a `transform` e
+`opacity` e suporte a `clickTag`. E-mail responsivo de 600 px em tabela com CSS inline,
+compatível com Outlook.
+
+### [Sabor de Casa](https://receitassabordecasa.com.br) — site de receitas
+Layout responsivo mobile-first, HTML semântico e CSS moderno, publicado com domínio próprio.
+
+## Stack
 
 <p>
-  <a href=https://www.linkedin.com/in/cezarvellozo/>
-    <img align="left" alt="logo Linkedin" width="90px" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white">
+</p>
+
+## Formação
+
+**Desenvolvimento Full Stack — DevClub** (em andamento) · Análise e gestão de processos (7 anos de
+experiência profissional)
+
+---
+
+<p align="center">
+  <sub>Aberto a oportunidades júnior, remotas. Português nativo · inglês intermediário.</sub>
 </p>
